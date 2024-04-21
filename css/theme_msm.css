@@ -24,7 +24,7 @@ a, a:visited {
 	margin-left: -480px;
 	width: 960px;
 	height: 640px;
-	background-image: url("assets/log_in_frame.png");
+	background-image: url("../assets/log_in_frame.png");
 }
 
 #title {
@@ -45,7 +45,7 @@ a, a:visited {
 	margin-right: auto;
 	width: 256px;
 	height: 72px;
-	background-image: url('assets/button_continue_prple.png');
+	background-image: url('../assets/button_continue_prple.png');
 }
 
 .customButton p {
